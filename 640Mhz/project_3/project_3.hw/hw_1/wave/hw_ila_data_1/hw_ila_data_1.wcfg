@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Projects/New folder/640Mhz/project_3/project_3.hw/hw_1/wave/hw_ila_data_1/hw_ila_data_1.wdb" id="1">
+         <top_modules>
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="40831fs"></ZoomEndTime>
+      <Cursor1Time time="0fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="185"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="0" />
+   <wave_markers>
+      <marker time="14403000" label="" />
+      <marker time="29288000" label="" />
+      <marker time="28815000" label="" />
+      <marker time="29286000" label="" />
+      <marker time="28904000" label="" />
+      <marker time="28800000" label="" />
+      <marker time="14410000" label="" />
+      <marker time="16417000" label="" />
+      <marker time="16388000" label="" />
+      <marker time="0" label="" />
+      <marker time="65663000" label="" />
+      <marker time="65683000" label="" />
+      <marker time="65703000" label="" />
+   </wave_markers>
+</wave_config>
